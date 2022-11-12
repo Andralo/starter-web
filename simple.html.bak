@@ -3,7 +3,7 @@
 	Copyright 2014 Git.Training
 -->
 <head>
-	<title>Lots of Trouble, in a little repo</title>
+	<title>Updating Title for Stash Example</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -22,7 +22,7 @@
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Git Training 2014</p>
+		<p>&copy; 2014 Git Training, All rights reserved. </p>
 	</footer>
 </body>
 </html>
